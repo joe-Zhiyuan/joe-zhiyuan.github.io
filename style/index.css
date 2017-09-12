@@ -10,24 +10,84 @@ button{outline:none;}
 input,select,textarea{outline:none;border: none;background: none;}
 textarea{resize:none;}
 a{text-decoration:none;color: #656565;}
+.clear{clear:both;}
 /*title*/
 body{
-	background-color: #ddd;
+	background-color: #444;
+}
+.fontcolor{
+	font-family: "黑体";
+	color:#555;
+}
+.myresume{
+	margin:0 auto;
+	width: 800px;
+	background-color: #fff;
 }
 .title{
-	width: 100%;
-	min-width: 1000px;
+	width: 800px;
 }
-.title h3{
-	margin:70px 0 70px 0;
+.myresume .title h3{
+	padding:70px 0 70px 0;
 	text-align: center;
 	font-size: 28px;
 	font-family: "微软雅黑";
 }
-.nav{
-	
-}
-.myresume{
+.message{
+	width: 680px;
+	background-color: #eee;
 	margin:0 auto;
-	width: 1000px;
+	height: 185px;
+}
+.message img{
+	width:130px;
+	height:185px;
+	float: left;
+}
+.message .myimgright{
+	float: left;
+	margin-left: 40px;
+}
+.myimgright p{
+	margin-top:30px;
+}
+.myimgright .name{
+	font-weight: bold;
+	font-size: 22px;
+	margin-top:20px;
+}
+.myimgright .sex{
+	font-size: 16px;
+	margin-left: 20px;
+}
+.myimgright .Ptwo{
+	font-size:16px;
+	margin-left: 10px; 
+}
+.myimgright .spanone{
+	font-size:16px;
+	margin-left: 10px;
+}
+.myimgright .spantwo{
+	font-size: 16px;
+	margin-left:40px;
+}
+.mydata{
+	margin:70px 0 0 60px;
+}
+.fontbold{
+	font:bold 18px "微软雅黑";
+}
+.mydata ul{
+	float: left;
+	margin-top:20px;
+}
+.mydata li{
+	margin-top:15px;
+	font-size: 14px;
+	font-family: "黑体";
+	margin-right:20px;
+}
+.mydataone{
+	margin-left: 100px;
 }
