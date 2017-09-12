@@ -15,6 +15,15 @@ a{text-decoration:none;color: #656565;}
 body{
 	background-color: #444;
 }
+.height300{
+	height:300px;
+}
+.height200{
+	height:200px;
+}
+.height140{
+	height:140px;
+}
 .fontcolor{
 	font-family: "黑体";
 	color:#555;
@@ -84,10 +93,108 @@ body{
 }
 .mydata li{
 	margin-top:15px;
-	font-size: 14px;
-	font-family: "黑体";
+	font-size: 16px;
+	font-family: "微软雅黑";
 	margin-right:20px;
 }
 .mydataone{
 	margin-left: 100px;
+}
+.PersonalSkills{
+	margin:50px 0 0px 60px;
+}
+.PersonalSkills p{
+	margin-bottom: 30px;
+}
+.PersonalSkills ul li{
+	list-style-type: decimal-leading-zero;
+	margin:15px 0 0 50px;
+	font:normal 16px "微软雅黑";
+}
+.job{
+	width: 680px;
+	margin:70px 0 0px 60px;
+}
+.job p{
+	margin-bottom: 20px;
+}
+.workname{
+	background-color: #ddd;
+	border-left: 3px solid rgb(255,165,0);
+	font-size: 14px;
+	font-weight: bold;
+	padding:3px 0 3px 0;
+}
+.workname span{
+	margin:0 50px 0 20px;
+}
+.job ul{
+	float: left;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	margin-left: 30px;
+}
+.job ul li{
+	margin-bottom: 15px;
+}
+.width500{
+	width: 500px;
+}
+.school{
+	margin:50px 0 0 60px;
+}
+.school .schoolname{
+	font:bold 16px "微软雅黑";
+	margin:20px 0 20px 0;
+}
+.school p{
+	margin-top: 10px;
+}
+.school span{
+	font:normal 16px "微软雅黑";
+	margin: 0px 80px 0 0;
+}
+.Myproject{
+	width: 680px;
+	margin:70px 0 10px 60px;
+}
+.Myproject p{
+	margin-top: 30px;
+}
+.Myproject ul{
+	float: left;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	margin: 20px 0 0 30px;
+}
+.Myproject ul li{
+	margin-bottom: 20px;
+}
+.Myproject .list{
+	margin-top: 0;
+}
+.Myproject .list li{
+	list-style-type: decimal;
+}
+.intention{
+	margin:70px 0 0 60px;
+}
+.intention ul{
+	float: left;
+	font:normal 16px "微软雅黑";
+	margin:15px 40px 0 20px;
+}
+.intention ul li{
+	margin-top: 15px;
+}
+.Evaluate{
+	margin:70px 0 0 60px;
+}
+.Evaluate ul{
+	margin-top: 50px;
+}
+.Evaluate ul li{
+	list-style-type: decimal;
+	margin:15px 0 0 50px;
+	font:normal 16px "微软雅黑";
 }
