@@ -21,8 +21,8 @@ body{
 .height200{
 	height:200px;
 }
-.height140{
-	height:140px;
+.height160{
+	height:160px;
 }
 .fontcolor{
 	font-family: "黑体";
@@ -169,6 +169,9 @@ body{
 }
 .Myproject ul li{
 	margin-bottom: 20px;
+}
+.Myproject .height160 p{
+	margin-top: 10px;
 }
 .Myproject .list{
 	margin-top: 0;
