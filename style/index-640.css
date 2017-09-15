@@ -11,40 +11,231 @@ input,select,textarea{outline:none;border: none;background: none;}
 textarea{resize:none;}
 a{text-decoration:none;color: #656565;}
 .clear{clear:both;}
+.height300{
+	height:300px;
+}
+.height200{
+	height:380px;
+}
+.height160{
+	height:280px;
+}
+.height180{
+	height: 180px;
+}
+.fontcolor{
+	font-family: "黑体";
+	color:#555;
+}
+.fontbold{
+	font:bold 18px "微软雅黑";
+}
 /*头部*/
 body{
-	background-color: #444;
 	height:100%;
 }
 .myresume{
-	margin: 0 5% 0 5%;
 	background-color: #fff;
 	height: 100%;
 }
 .title h3{
-	margin-top: 2%;
-	font-size: 2em;
+	font-size: 1.8em;
 	text-align: center;
-	padding:8% 0 10% 0;
+	margin:10% 0 10% 0;
+/*	justify-content: center;子元素水平居中
+	子元素垂直居中
+	align-items: center;
+	display:-webkit-flex;flexbox弹性布局
+	flex:1;*/
 }
 .message{
 	margin: 0 5% 0 5%;
 	width: 90%;
-	height: 50%;
 	background-color: #eee;
-}
-.message .myImg{
-	width:30%;
-	float: left;
-	background-color: #eee;
+	display:-webkit-flex;
 }
 .message .myImg img{
-	width: 100%;
+	width:112px;
+	height:157px;
+	float: left;
+	background-color: #eee;
 }
 .message .myimgright{
+	font-size: 0.9em;
 	float: left;
-	font-size: 0.5em;
-	width: 66%;
-	padding-left: 4%;
-	background-color: #eee;
+	flex:1;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.message .myimgright p{
+	margin-top: 5%;
+}
+.name{
+	margin-right:15px;
+	font-size: 1.5em;
+}
+.message .myimgright .spanone{
+	display: block;
+	margin-bottom: 5%;
+}
+
+.mydata{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";
+}
+.mydata p{
+/*	font-size: 1.2em;*/
+margin-bottom: 4%;
+}
+.mydata ul{
+	float: left;
+	margin: 0 3% 0 5%;
+}
+.mydata ul li{
+	margin-top: 5px;
+}
+.PersonalSkills{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";	
+}
+.PersonalSkills p{
+	margin-bottom: 4%;	
+}
+.PersonalSkills li{
+	list-style-type:decimal-leading-zero;
+	margin:2% 0 0 13%;
+}
+.job{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";
+}
+.job p{
+	margin:4% 0 4% 0;	
+}
+.job .workname{
+	background-color: #ddd;
+	border-left: 3px solid rgb(255,165,0);
+	font-weight: bold;
+	font-size: 0.8em;
+	padding:3px 0 3px 0;
+}
+.job .workname span{
+	margin-right: 10px;
+}
+.job ul{
+	float: left;
+}
+.job ul li{
+	margin-top: 5px;
+}
+.width500{
+	width: 72%;
+}
+.school{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";	
+}
+.school p{
+	margin:2% 0 2% 0;
+}
+.school .schoolname{
+	margin: 3% 0 0 3%;
+}
+.school span{
+	margin-top: 5px;
+}
+.wapOne{
+	margin-right: -23px;
+}
+@media screen and (max-width: 640px){
+	.school .fontcolor{
+		margin-right: 150px;
+	}
+}
+@media screen and (max-width: 400px){
+	.school .fontcolor{
+		margin-right: 120px;
+	}
+}
+@media screen and (max-width: 350px){
+	.school .fontcolor{
+		margin-right: 80px;
+	}
+}
+.Myproject{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";	
+}
+.Myproject p{
+	margin:4% 0 4% 0;	
+}
+.Myproject .workname{
+	background-color: #ddd;
+	border-left: 3px solid rgb(255,165,0);
+	font-weight: bold;
+	font-size: 0.8em;
+	padding:3px 0 3px 0;	
+}
+.Myproject ul{
+	float: left;
+}
+.Myproject ul li{
+	margin-top: 5px;
+}
+.Myproject .list{
+	list-style-type: decimal;
+}
+@media screen and (max-width: 640px){
+	.Myproject .list{
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 400px){
+	.Myproject .list{
+		font-size: 1em;
+	}
+}
+@media screen and (max-width: 360px){
+	.Myproject .list{
+		font-size: 0.8em;
+	}
+}
+.intention{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";	
+}
+.intention p{
+	margin:2% 0 2% 0;	
+}
+.intention ul{
+	float: left;
+	margin: 0 3% 0 5%; 
+}
+.intention ul li{
+	margin-top: 5px;
+}
+.Evaluate{
+	margin: 5% 0 0 5%;
+	width: 90%;
+	font-size: 1em;
+	font-family: "黑体";	
+}
+.Evaluate ul{
+	margin-top: 8%;
+}
+.Evaluate ul li{
+	list-style-type: decimal;
+	margin:2% 0 0 13%;
 }
