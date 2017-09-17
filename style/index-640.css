@@ -20,6 +20,22 @@ a{text-decoration:none;color: #656565;}
 .height160{
 	height:280px;
 }
+@media screen and (max-width: 550px) and (min-width: 400px){
+	.height200{
+		height:420px;
+	}
+	.height160{
+		height:300px;
+	}
+}
+@media screen and (max-width: 400px) and (min-width: 300px){
+	.height200{
+		height:450px;
+	}
+	.height160{
+		height:320px;
+	}
+}
 .height180{
 	height: 180px;
 }
@@ -91,7 +107,13 @@ margin-bottom: 4%;
 }
 .mydata ul{
 	float: left;
-	margin: 0 3% 0 5%;
+	margin: 0 10% 0 5%;
+}
+@media screen and (max-width:380px){
+		.mydata ul{
+			float: left;
+			margin: 0 3% 0 5%;
+		}
 }
 .mydata ul li{
 	margin-top: 5px;
@@ -152,22 +174,39 @@ margin-bottom: 4%;
 .school span{
 	margin-top: 5px;
 }
-.wapOne{
-	margin-right: -23px;
-}
 @media screen and (max-width: 640px){
-	.school .fontcolor{
-		margin-right: 150px;
+	.school span{
+		margin-right: 31%;
 	}
 }
-@media screen and (max-width: 400px){
-	.school .fontcolor{
-		margin-right: 120px;
+@media screen and (max-width: 600px){
+	.school span{
+		margin-right: 30%;
+	}
+}
+@media screen and (max-width: 550px){
+	.school span{
+		margin-right: 28%;
+	}
+}
+@media screen and (max-width: 500px){
+	.school span{
+		margin-right: 26%;
+	}
+}
+@media screen and (max-width: 450px){
+	.school span{
+		margin-right: 22%;
+	}
+}
+@media screen and (max-width: 390px){
+	.school span{
+		margin-right: 60px;
 	}
 }
 @media screen and (max-width: 350px){
-	.school .fontcolor{
-		margin-right: 80px;
+	.school span{
+		margin-right: 12%;
 	}
 }
 .Myproject{
