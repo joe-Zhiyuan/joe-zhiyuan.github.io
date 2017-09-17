@@ -115,6 +115,12 @@ margin-bottom: 4%;
 			margin: 0 14% 0 5%;
 		}
 }
+@media screen and (max-width:560px){
+		.mydata ul{
+			float: left;
+			margin: 0 9.5% 0 5%;
+		}
+}
 @media screen and (max-width:380px){
 		.mydata ul{
 			float: left;
