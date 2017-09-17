@@ -105,18 +105,24 @@ body{
 /*	font-size: 1.2em;*/
 margin-bottom: 4%;
 }
-.mydata .Pdata{
-	display:block;
-}
 .mydata ul{
 	float: left;
 	margin: 0 10% 0 5%;
+}
+@media screen and (max-width:640px) and (min-width: 560px){
+		.mydata ul{
+			float: left;
+			margin: 0 14% 0 5%;
+		}
 }
 @media screen and (max-width:380px){
 		.mydata ul{
 			float: left;
 			margin: 0 3% 0 5%;
 		}
+}
+.Pdata{
+	display:block;
 }
 .mydata ul li{
 	margin-top: 5px;
