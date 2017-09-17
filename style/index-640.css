@@ -105,6 +105,9 @@ body{
 /*	font-size: 1.2em;*/
 margin-bottom: 4%;
 }
+.mydata .Pdata{
+	display:block;
+}
 .mydata ul{
 	float: left;
 	margin: 0 10% 0 5%;
