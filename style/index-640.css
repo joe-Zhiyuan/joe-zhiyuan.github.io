@@ -109,7 +109,7 @@ margin-bottom: 4%;
 	float: left;
 	margin: 0 10% 0 5%;
 }
-@media screen and (max-width:640px) and (min-width: 560px){
+@media screen and (max-width:640px){
 		.mydata ul{
 			float: left;
 			margin: 0 14% 0 5%;
@@ -126,9 +126,6 @@ margin-bottom: 4%;
 			float: left;
 			margin: 0 2.5% 0 3%;
 		}
-}
-.Pdata{
-	display:block;
 }
 .mydata ul li{
 	margin-top: 5px;
