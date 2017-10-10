@@ -1,0 +1,9 @@
+.cont{
+	width:100%;
+	height:100%;
+}
+.cont p{
+	text-align: center;
+	font:bold 24px "微软雅黑";
+	margin-top:150px;	
+}
