@@ -1,9 +1,45 @@
-.cont{
+html,body{
 	width:100%;
 	height:100%;
 }
-.cont p{
-	text-align: center;
-	font:bold 24px "微软雅黑";
-	margin-top:150px;	
+.index{
+	width:100%;
+	height:100%;
+	position: absolute;
+	background:rgb(233,233,233);
+}
+.cont{
+	width:200px;
+	height:100px;
+	position: absolute;
+	margin-left:-100px;
+	left:50%;
+	line-height:100px;
+	margin-top:-50px;
+	top:50%;
+	font-size: 24px;
+	color:#ccc;
+	transition:color 2s ease;
+}
+.cont:hover{
+	color:#000;
+}
+a{
+	position: absolute;
+	bottom:20px;
+	right:40px;
+	font-size: 16px;
+	color:#ccc;
+}
+a:hover{
+	animation: colorfirst 10s ease;
+}
+@keyframes colorfirst{
+	0% {color:#ccc;}
+	15% {color:red;}
+	30% {color:blue;}
+	45% {color:yellow;}
+	60% {color:green;}
+	75% {color:#000;}
+	90% {color:#ccc;}
 }
