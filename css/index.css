@@ -6,23 +6,30 @@ html,body{
 	width:100%;
 	height:100%;
 	position: absolute;
-	background:rgb(233,233,233);
+	background:#fff;
+	/*径向渐变*/
+	/*background: -webkit-radial-gradient(circle, #eeeeee, #dddddd, #cccccc); !* Safari 5.1 - 6.0 *!*/
+	/*background: -o-radial-gradient(circle,#eeeeee, #dddddd, #cccccc); !* Opera 11.6 - 12.0 *!*/
+	/*background: -moz-radial-gradient(circle, #eeeeee, #dddddd, #cccccc); !* Firefox 3.6 - 15 *!*/
+	/*background: radial-gradient(circle, #eeeeee, #dddddd, #cccccc); !* 标准的语法 *!*/
 }
 .cont{
-	width:200px;
-	height:100px;
+	width:400px;
+	height:400px;
 	position: absolute;
-	margin-left:-100px;
+	margin-left:-200px;
 	left:50%;
-	line-height:100px;
-	margin-top:-50px;
+	margin-top:-200px;
 	top:50%;
 	font-size: 24px;
 	color:#ccc;
 	transition:color 2s ease;
 }
+.cont p{
+	text-align: center;
+}
 .cont:hover{
-	color:#000;
+	color:rgba(0,0,0,.6);
 }
 a{
 	position: absolute;
