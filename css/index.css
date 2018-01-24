@@ -26,6 +26,7 @@ html,body{
 	transition:color 2s ease;
 }
 .cont p{
+	font-size: 16px;
 	text-align: center;
 }
 .cont:hover{
