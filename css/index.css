@@ -19,28 +19,36 @@ html,body{
 	position: absolute;
 	margin-left:-200px;
 	left:50%;
-	margin-top:-200px;
-	top:40%;
+	top:0;
 	font-size: 24px;
 	color:#ccc;
+	-webkit-transition:color 1s ease;
+	-moz-transition:color 1s ease;
+	-o-transition:color 1s ease;
 	transition:color 1s ease;
 }
-.cont p{
+.cont h4{
 	user-select:none;
+	font-weight: normal;
+	cursor:pointer;
 	font-size: 16px;
 	text-align: center;
+	-webkit-transition:color 1s ease;
+	-moz-transition:color 1s ease;
+	-o-transition:color 1s ease;
+	transition:color 1s ease;
 }
-.cont:hover{
+.cont:hover h4{
 	color:rgba(0,0,0,.8);
 }
-a{
+.index>a{
 	position: absolute;
 	bottom:20px;
 	right:40px;
 	font-size: 16px;
 	color:#ccc;
 }
-a:hover{
+.index>a:hover{
 	animation: colorfirst 10s ease;
 }
 @keyframes colorfirst{
