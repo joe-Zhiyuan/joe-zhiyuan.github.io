@@ -20,17 +20,18 @@ html,body{
 	margin-left:-200px;
 	left:50%;
 	margin-top:-200px;
-	top:50%;
+	top:40%;
 	font-size: 24px;
 	color:#ccc;
-	transition:color 2s ease;
+	transition:color 1s ease;
 }
 .cont p{
+	user-select:none;
 	font-size: 16px;
 	text-align: center;
 }
 .cont:hover{
-	color:rgba(0,0,0,.6);
+	color:rgba(0,0,0,.8);
 }
 a{
 	position: absolute;
