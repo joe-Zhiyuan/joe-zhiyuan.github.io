@@ -1,0 +1,144 @@
+{
+  "ret": true,
+  "data": {
+    "fromName": "合肥出发",
+    "bannerImg": [{
+      "id": "0001",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300u0p000000fx0640B90_C_750_420_Q90.jpg"
+    },
+    {
+      "id": "0002",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300215000000xj306E6B2_C_750_420_Q90.jpg"
+    },
+    {
+      "id": "0003",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300l0p000000fx96q0D11_C_750_420_Q90.jpg"
+    },
+    {
+      "id": "0004",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300r0o000000el0ia2EEF_C_750_420_Q90.jpg"
+    },
+    {
+      "id": "0005",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300p0p000000fx1r282F6_C_750_420_Q90.jpg"
+    },
+    {
+      "id": "0006",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300c15000000xenpyE9BA_C_750_420_Q90.jpg"
+    },
+    {
+      "id": "0007",
+      "ImgUrl": "https://dimg04.c-ctrip.com/images/300w0m000000dr6dc0087_C_750_420_Q90.jpg"
+    }],
+    "galleryImg": [
+      "https://dimg04.c-ctrip.com/images/300u0p000000fx0640B90_C_750_420_Q90.jpg",
+      "https://dimg04.c-ctrip.com/images/300215000000xj306E6B2_C_750_420_Q90.jpg",
+      "https://dimg04.c-ctrip.com/images/300l0p000000fx96q0D11_C_750_420_Q90.jpg",
+      "https://dimg04.c-ctrip.com/images/300r0o000000el0ia2EEF_C_750_420_Q90.jpg",
+      "https://dimg04.c-ctrip.com/images/300p0p000000fx1r282F6_C_750_420_Q90.jpg",
+      "https://dimg04.c-ctrip.com/images/300c15000000xenpyE9BA_C_750_420_Q90.jpg",
+      "https://dimg04.c-ctrip.com/images/300w0m000000dr6dc0087_C_750_420_Q90.jpg"
+    ],
+    "detailInfo": {
+      "price": "1579",
+      "priceSave": "4.8",
+      "people": "6643",
+      "priceImg": "https://images3.c-ctrip.com/dj/201906/678_750x120.jpg",
+      "sightName": "安徽黄山3日2晚跟团游",
+      "sightInfo": "高铁直达『梦幻黄山·水墨徽州』赠价值140元《徽韵》演出·1晚山顶四星/4钻酒店·多房型可自选·可观日出日落+1晚市区4钻香茗假日酒店·大手牵小手&儿童出行享【亲子礼遇】登高避暑",
+      "signtTag": ["动车高铁", "赏花", "可独立成团"],
+      "sellPointTitle": "产品卖点",
+      "sellPoint": [{
+        "sellPointName": "度假首选",
+        "sellPointInfo": "漫游宏村，夜赏徽韵，日登黄山，初尝徽菜，一次旅行全部满足！"
+      },
+      {
+        "sellPointName": "服务保障",
+        "sellPointInfo": "A线山顶入住多人独卫房；B线山顶入住双人标间，市区可自选升级5星酒店！"
+      },
+      {
+        "sellPointName": "缤纷景点",
+        "sellPointInfo": "高铁往返，门票全含，经典纯玩！先游宏村，初识徽州；再留体力，征服黄山！"
+      }],
+      "cost": "费用说明",
+      "costDescription": [{
+        "costTitle": "费用包含",
+        "costInfo": [{
+          "costInfoName": "交通",
+          "costInfoContent": "往返高铁二等座火车票"
+        },{
+          "costInfoName": "住宿",
+          "costInfoContent": "行程所列酒店住宿费用。"
+        },{
+          "costInfoName": "餐食",
+          "costInfoContent": "行程内所列餐食，具体情况请见行程推荐/安排。"
+        },{
+          "costInfoName": "门票",
+          "costInfoContent": "行程中所列景点首道大门票黄山门票+往返景交、宏村门票、徽韵c区演出票（赠送项目，不去不退；每周一停演无法赠送，敬请谅解）"
+        },{
+          "costInfoName": "用车",
+          "costInfoContent": "安排当地专属用车(除部分特殊路段因当地规定及安全考量，则依规定派遣小型车)。"
+        },{
+          "costInfoName": "服务",
+          "costInfoContent": "当地中文导游服务（接驳部分不含导游服务） 。"
+        },{
+          "costInfoName": "其他",
+          "costInfoContent": "年龄1--14周岁（不含）,不占床,1、14周岁及以上请按成人提交。 2、【亲子礼遇（每间房仅限1名儿童，中秋、国庆假期不可享受）】即日起至2019年8月31日期止，携带14周岁以下儿童出行，入住黄山香茗假日酒店免费升级亲子房或标间加1床、含儿童早餐、赠徽韵C区门票；若儿童数量（或年龄）超出的，以上项目儿童费用需自理。 3、儿童不含早餐不含任何赠送项目（符合【亲子礼遇】条件的除外），徽韵演出门票：儿童身高1.2m以下（不占座）免费，1.2m以下占座或1.2m以上需自行购买全票。 4、儿童不含景点门票，只含导游服务费、车位费（不包括黄山景区往返景交）以及往返儿童火车票（儿童提交时请正确选择身高，系统会按照您所选择的身高出相对应的火车票）；产生超高及其他费用请家长自理。 5、以上儿童火车票费用说明均不适用于【上海-黄山往返自营控位纸质票】（控位车票无儿童票），儿童纸质票以实际预订价格为准，无任何差价退还。"
+        }]
+      },{
+        "costTitle": "自理费用",
+        "costInfo": [{
+          "costInfoName": "补充",
+          "costInfoContent": "超重行李的托运费、保管费; 酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费; 自由活动期间的用车服务; 提供导游服务的产品在自由活动期间无陪同服务; 当地参加的自费以及“费用包含”中不包含的其它项目。"
+        },{
+          "costInfoName": "其他",
+          "costInfoContent": "因景区儿童标准不一样，儿童价不含景区门票费用，如产生儿童门票费用，游客可自行到景区购买门票或由导游代为购买。"
+        }]
+      }]
+    },
+    "recommend": {
+      "recommendTitle": "更多推荐",
+      "recommendContent": [{
+        "id": "0001",
+        "recommendContentTil": "黄山风景区2日1晚跟团游(4钻)·黄山全景二日游一晚住山上【高铁往返·观日出·看星空】赠送登山三宝√一人成行√黄山高铁站免费接送",
+        "recommendContentPrice": "1344",
+        "recommendContentUrl": "https://dimg04.c-ctrip.com/images/30070r000000h6tqxC41B_C_500_333_Q70.jpg"
+      },{
+        "id": "0002",
+        "recommendContentTil": "安徽黄山+宏村3日2晚跟团游(5钻)·高铁直达【早鸟·VIP缆车·错峰观日出】赠价值180元《宏村阿菊》水上演出+特色餐！含上行缆车80元！全程5钻酒店·1晚住宏村奇墅湖畔·杭黄高铁&登高避暑季【纯玩·亲子·暑期】！",
+        "recommendContentPrice": "1540",
+        "recommendContentUrl": "https://dimg04.c-ctrip.com/images/300c0h0000008v5fu8847_C_500_333_Q70.jpg"
+      },{
+        "id": "0003",
+        "recommendContentTil": "黄山风景区+宏村3日2晚跟团游(4钻)·亲子合家欢！限20人·精品小团『VIP绿色通道·免排队！直达黄山景区』1天1主题！行程更合理！全程4钻酒店·舒适更经济【大手牵小手·儿童出行·享亲子礼遇】高铁往返",
+        "recommendContentPrice": "1443",
+        "recommendContentUrl": "https://dimg04.c-ctrip.com/images/300i0t000000ia0sbCF7A_C_500_333_Q70.jpg"
+      },{
+        "id": "0004",
+        "recommendContentTil": "宏村3日2晚半自助游·『高铁直达·烟雨江南·如梦徽州』宿宏村客栈&2晚连住不挪窝 慢游水墨宏村 一半跟团游一半自由行·玩足3天不留遗憾 免费高铁接站服务",
+        "recommendContentPrice": "997",
+        "recommendContentUrl": "https://dimg03.c-ctrip.com/images/100q12000000rnk5f7570_C_500_333_Q70.jpg"
+      },{
+        "id": "0005",
+        "recommendContentTil": "安徽黄山+宏村3日2晚跟团游(4钻)·『暑期毕业季·游山玩水』#经典线高铁款#10000+人出游！1晚山顶+1晚山下【a线·半山腰5钻黄山温泉·双人套票房】【b线·市区4钻舒适房·逛老街·送价值98元漂流！】杭黄高铁游！",
+        "recommendContentPrice": "1240",
+        "recommendContentUrl": "https://dimg04.c-ctrip.com/images/300o11000000qaf8oF2C1_C_500_333_Q70.jpg"
+      },{
+        "id": "0006",
+        "recommendContentTil": "安徽黄山风景区+宏村3日2晚跟团游(4钻)·动车高铁游·2成人立减100元 『高山避暑·遇见童真·亲子游』 打卡宏村 第二天上山·时间充足 夜宿1600米山巅·观日出日落【1晚市区5钻酒店 1晚山上标间or独卫】亲子特优 惊喜到哭",
+        "recommendContentPrice": "1234",
+        "recommendContentUrl": "https://dimg04.c-ctrip.com/images/300b0c0000006nxy3EF06_C_500_333_Q70.jpg"
+      },{
+        "id": "0007",
+        "recommendContentTil": "黄山风景区+宏村3日2晚跟团游(4钻)·【销量明星·爆单款】『A线·市区两晚5钻连住·VIP直达索道口·赠送价值160元徽韵』BC线观日出： 1晚山顶+1晚市区『B线基础款·山顶独卫 C线升级款·山顶标间』",
+        "recommendContentPrice": "1240",
+        "recommendContentUrl": "https://dimg04.c-ctrip.com/images/300s0y000000m2jro6344_C_500_333_Q70.jpg"
+      },{
+        "id": "0008",
+        "recommendContentTil": "安徽黄山+宏村3日2晚跟团游(4钻)·【3日经典款·性价惠游·纯玩】『A线：市区4钻酒店+山顶独卫』『B线：市区5钻酒店+山顶标间』黄山初游选 畅玩两大世界遗产 无憾之选 高铁往返",
+        "recommendContentPrice": "1240",
+        "recommendContentUrl": "https://dimg06.c-ctrip.com/images/100813000000tjt49DCAB_C_500_333_Q70.jpg"
+      }]
+    }
+  }
+}
