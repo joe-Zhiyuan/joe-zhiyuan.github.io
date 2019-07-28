@@ -1,0 +1,110 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://img1.qunarzz.com/vc/5c/4a/42/31cd9cf831d4e9d8e2c898f1e8.jpg_624x340x92.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/ftejia/1809/f1/5237b904291291.jpg"
+      }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300a13000000tztb283AD.png",
+      "desc": "一日游"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "https://pages.c-ctrip.com/groupTravelUED/travel_homepage/8.1.2icon/%E9%B8%BF%E9%B9%84%C2%B7%E5%A5%A2%E6%B8%B8.png",
+      "desc": "春游"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300713000000uf6gaA365.png",
+      "desc": "当地向导"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300b11000000ricm57816.png",
+      "desc": "主题旅行"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300d13000000tx0nbB454.png",
+      "desc": "亲子·游学"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300h13000000vjqbpE86C.png",
+      "desc": "海岛"
+    },
+    {
+      "id": "0007",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300l10000000pj3oq76D9.png",
+      "desc": "景点"
+    },
+    {
+      "id": "0008",
+      "imgUrl": "https://pages.c-ctrip.com/groupTravelUED/travel_homepage/8.1.2icon/%E5%91%A8%E8%BE%B9%E6%B8%B8.png",
+      "desc": "周边游"
+    },
+    {
+      "id": "0009",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300j13000000ty0js75C3.png",
+      "desc": "带娃出游"
+    },
+    {
+      "id": "0010",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300q13000000twl3sEC5D.png",
+      "desc": "浪漫之旅"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300215000000xj306E6B2_C_180_230.jpg",
+      "title": "安徽黄山3日2晚跟团游",
+      "desc": "16人小团 B线错峰大放“价”2人-60 暑期赠龙虾宴  A线丛溪+希尔顿 开元 B线2晚希尔顿 C线2晚开元 D线鑫邦开元+希尔顿 赠篁岭索道 仙境三清奇松云海 无购物"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300v12000000ryy3k22E8_C_180_230.png",
+      "title": "浙江仙居3日2晚跟团游·琼台仙谷·神仙居",
+      "desc": "2晚连住四星酒店+D3国清寺祈福~含丰富自助早（目的地明星产品·纯玩无购物·自营独立组团·专业导游带队）"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300g0s000000hzkxa432D_C_180_230.jpg",
+      "title": "乌镇+杭州2日1晚跟团游",
+      "desc": "【梦游江南·夜宿乌镇·A线2人出游立减20】纯玩不进店 360°玩转乌镇西栅日夜景 赠西湖游船 泛舟西湖赏美景 住乌镇自营高钻客栈 赠乌镇特色晚餐+自由出入西栅+电瓶车 可升级景区内度假酒店"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300s13000000v8jv4710F_C_180_230.jpg",
+      "title": "武夷山主景+九曲溪漂流3日2晚跟团游",
+      "desc": "【艾在武夷 出游之冠 678月节快乐出发】12人团 ABC线任选 享漂流激情 赏武夷山全景 3正餐+特色饮品 5钻万嘉华悦/九龙湾花园别墅/华美达酒店  赠218元印象演出+萌宠加湿器"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/300810000000oyf23C08F_C_180_230.jpg",
+      "title": "扬州2日1晚跟团游·邂逅扬州慢生活",
+      "desc": "『五钻产品·订制专享团·每人赠价值168元喜来登自助晚餐 ·誉江南玲珑系列·春季赏花游』2成人预定立减50元每单【瘦西湖船宴早茶·夜宿喜来登·大明寺祈福·爸妈安心游】"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/350k0w000000kqly89091_C_640_360_Q60.jpg",
+      "title": "观赏海洋动物，亲子旅的绝妙去处。",
+      "desc": "天津市滨海新区响螺湾商务区61号（近海门大桥）"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "https://dimg04.c-ctrip.com/images/350g13000000uhuxd615F_C_640_360_Q60.jpg",
+      "title": "以科幻和互动体验为特色的游乐公园，能够寓教于乐",
+      "desc": "天津市滨海新区中生大道4888号"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "https://dimg05.c-ctrip.com/images/100b0b0000005815o9610_C_640_360_Q60.jpg",
+      "title": "溥仪故居，可以了解末代皇帝的生平。",
+      "desc": "和平区鞍山道70号（鞍山道与甘肃路交口，鞍山道小学对面）"
+    }]
+  }
+}
